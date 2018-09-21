@@ -1,1 +1,3 @@
-# mark_lane
+# Detect lanes
+
+This program will enable lanes detection in a video. This uses OpenCV.
